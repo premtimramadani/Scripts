@@ -1,5 +1,6 @@
 # Scripts
 Solutions regarding problems I've been facing 
+
 brandprotection==================================================
 1. Download the file and add it to the /usr/bin directory
 2. Create a folder named BrandProtection to ~/
